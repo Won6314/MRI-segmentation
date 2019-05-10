@@ -1,6 +1,9 @@
 # MRI-segmentation
 Graduation Project(2017 summer)
 
+Graduation project that worked on 2017 summer
+my first time using python/tensorflow
+it's little bit clumsy because stacked from nothing
 
 ![alt_text](https://github.com/Won6314/MRI-segmentation/blob/master/image/qsm19.png)
 ![alt_text](https://github.com/Won6314/MRI-segmentation/blob/master/image/seg19.png)
